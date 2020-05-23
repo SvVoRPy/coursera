@@ -1,0 +1,189 @@
+season;league;conference;division;finish;wins;losses;ties;team
+1970;NFL;NFC;Central;4;6;8;0;Chicago Bears
+1971;NFL;NFC;Central;3;6;8;0;Chicago Bears
+1972;NFL;NFC;Central;4;4;9;1;Chicago Bears
+1973;NFL;NFC;Central;4;3;11;0;Chicago Bears
+1974;NFL;NFC;Central;4;4;10;0;Chicago Bears
+1975;NFL;NFC;Central;3;4;10;0;Chicago Bears
+1976;NFL;NFC;Central;2;7;7;0;Chicago Bears
+1977;NFL;NFC;Central;2;9;5;0;Chicago Bears
+1978;NFL;NFC;Central;4;7;9;0;Chicago Bears
+1979;NFL;NFC;Central;2;10;6;0;Chicago Bears
+1980;NFL;NFC;Central;3;7;9;0;Chicago Bears
+1981;NFL;NFC;Central;5;6;10;0;Chicago Bears
+1982;NFL;NFC;Central;12;3;6;1;Chicago Bears
+1983;NFL;NFC;Central;3;8;8;0;Chicago Bears
+1984;NFL;NFC;Central;1;8;8;0;Chicago Bears
+1985;NFL;NFC;Central;1;15;1;0;Chicago Bears
+1986;NFL;NFC;Central;1;14;2;0;Chicago Bears
+1987;NFL;NFC;Central;1;11;4;0;Chicago Bears
+1988;NFL;NFC;Central;1;12;4;0;Chicago Bears
+1989;NFL;NFC;Central;4;6;10;0;Chicago Bears
+1990;NFL;NFC;Central;1;11;5;0;Chicago Bears
+1991;NFL;NFC;Central;2;11;5;0;Chicago Bears
+1992;NFL;NFC;Central;4;5;11;0;Chicago Bears
+1993;NFL;NFC;Central;4;7;9;0;Chicago Bears
+1994;NFL;NFC;Central;4;9;7;0;Chicago Bears
+1995;NFL;NFC;Central;3;9;7;0;Chicago Bears
+1996;NFL;NFC;Central;3;7;9;0;Chicago Bears
+1997;NFL;NFC;Central;5;4;12;0;Chicago Bears
+1998;NFL;NFC;Central;5;4;12;0;Chicago Bears
+1999;NFL;NFC;Central;5;6;10;0;Chicago Bears
+2000;NFL;NFC;Central;5;5;11;0;Chicago Bears
+2001;NFL;NFC;Central;1;13;3;0;Chicago Bears
+2002;NFL;NFC;North;3;4;12;0;Chicago Bears
+2003;NFL;NFC;North;3;7;9;0;Chicago Bears
+2004;NFL;NFC;North;4;5;11;0;Chicago Bears
+2005;NFL;NFC;North;1;11;5;0;Chicago Bears
+2006;NFL;NFC;North;1;13;3;0;Chicago Bears
+2007;NFL;NFC;North;4;7;9;0;Chicago Bears
+2008;NFL;NFC;North;2;9;7;0;Chicago Bears
+2009;NFL;NFC;North;3;7;9;0;Chicago Bears
+2010;NFL;NFC;North;1;11;5;0;Chicago Bears
+2011;NFL;NFC;North;3;8;8;0;Chicago Bears
+2012;NFL;NFC;North;3;10;6;0;Chicago Bears
+2013;NFL;NFC;North;2;8;8;0;Chicago Bears
+2014;NFL;NFC;North;4;5;11;0;Chicago Bears
+2015;NFL;NFC;North;4;6;10;0;Chicago Bears
+2016;NFL;NFC;North;4;3;13;0;Chicago Bears
+1970;NFL;NFC;Central;2;10;4;0;Detroit Lions
+1971;NFL;NFC;Central;2;7;6;1;Detroit Lions
+1972;NFL;NFC;Central;2;8;5;1;Detroit Lions
+1973;NFL;NFC;Central;2;6;7;1;Detroit Lions
+1974;NFL;NFC;Central;2;7;7;0;Detroit Lions
+1975;NFL;NFC;Central;2;7;7;0;Detroit Lions
+1976;NFL;NFC;Central;3;6;8;0;Detroit Lions
+1977;NFL;NFC;Central;3;6;8;0;Detroit Lions
+1978;NFL;NFC;Central;3;7;9;0;Detroit Lions
+1979;NFL;NFC;Central;5;2;14;0;Detroit Lions
+1980;NFL;NFC;Central;2;9;7;0;Detroit Lions
+1981;NFL;NFC;Central;2;8;8;0;Detroit Lions
+1982;NFL;NFC;;8;4;5;0;Detroit Lions
+1983;NFL;NFC;Central;1;9;7;0;Detroit Lions
+1984;NFL;NFC;Central;4;4;11;1;Detroit Lions
+1985;NFL;NFC;Central;4;7;9;0;Detroit Lions
+1986;NFL;NFC;Central;3;5;11;0;Detroit Lions
+1987;NFL;NFC;Central;5;4;11;0;Detroit Lions
+1988;NFL;NFC;Central;4;4;12;0;Detroit Lions
+1989;NFL;NFC;Central;3;7;9;0;Detroit Lions
+1990;NFL;NFC;Central;3;6;10;0;Detroit Lions
+1991;NFL;NFC;Central;1;12;4;0;Detroit Lions
+1992;NFL;NFC;Central;5;5;11;0;Detroit Lions
+1993;NFL;NFC;Central;1;10;6;0;Detroit Lions
+1994;NFL;NFC;Central;3;9;7;0;Detroit Lions
+1995;NFL;NFC;Central;2;10;6;0;Detroit Lions
+1996;NFL;NFC;Central;5;5;11;0;Detroit Lions
+1997;NFL;NFC;Central;3;9;7;0;Detroit Lions
+1998;NFL;NFC;Central;4;5;11;0;Detroit Lions
+1999;NFL;NFC;Central;3;8;8;0;Detroit Lions
+2000;NFL;NFC;Central;4;9;7;0;Detroit Lions
+2001;NFL;NFC;Central;5;2;14;0;Detroit Lions
+2002;NFL;NFC;North;4;3;13;0;Detroit Lions
+2003;NFL;NFC;North;4;5;11;0;Detroit Lions
+2004;NFL;NFC;North;3;6;10;0;Detroit Lions
+2005;NFL;NFC;North;3;5;11;0;Detroit Lions
+2006;NFL;NFC;North;4;3;13;0;Detroit Lions
+2007;NFL;NFC;North;3;7;9;0;Detroit Lions
+2008;NFL;NFC;North;4;0;16;0;Detroit Lions
+2009;NFL;NFC;North;4;2;14;0;Detroit Lions
+2010;NFL;NFC;North;3;6;10;0;Detroit Lions
+2011;NFL;NFC;North;2;10;6;0;Detroit Lions
+2012;NFL;NFC;North;4;4;12;0;Detroit Lions
+2013;NFL;NFC;North;3;7;9;0;Detroit Lions
+2014;NFL;NFC;North;2;11;5;0;Detroit Lions
+2015;NFL;NFC;North;3;7;9;0;Detroit Lions
+2016;NFL;NFC;North;2;9;7;0;Detroit Lions
+1970;NFL;NFC;Central;3;6;8;0;Green Bay Packers
+1971;NFL;NFC;Central;4;4;8;2;Green Bay Packers
+1972;NFL;NFC;Central;1;10;4;0;Green Bay Packers
+1973;NFL;NFC;Central;3;5;7;2;Green Bay Packers
+1974;NFL;NFC;Central;3;6;8;0;Green Bay Packers
+1975;NFL;NFC;Central;3;4;10;0;Green Bay Packers
+1976;NFL;NFC;Central;4;5;9;0;Green Bay Packers
+1977;NFL;NFC;Central;4;4;10;0;Green Bay Packers
+1978;NFL;NFC;Central;2;8;7;1;Green Bay Packers
+1979;NFL;NFC;Central;4;5;11;0;Green Bay Packers
+1980;NFL;NFC;Central;4;5;10;1;Green Bay Packers
+1981;NFL;NFC;Central;2;8;8;0;Green Bay Packers
+1982;NFL;NFC;;3;5;3;1;Green Bay Packers
+1983;NFL;NFC;Central;2;8;8;0;Green Bay Packers
+1984;NFL;NFC;Central;2;8;8;0;Green Bay Packers
+1985;NFL;NFC;Central;2;8;8;0;Green Bay Packers
+1986;NFL;NFC;Central;4;4;12;0;Green Bay Packers
+1987;NFL;NFC;Central;3;5;9;1;Green Bay Packers
+1988;NFL;NFC;Central;5;4;12;0;Green Bay Packers
+1989;NFL;NFC;Central;2;10;6;0;Green Bay Packers
+1990;NFL;NFC;Central;4;6;10;0;Green Bay Packers
+1991;NFL;NFC;Central;4;4;12;0;Green Bay Packers
+1992;NFL;NFC;Central;2;9;7;0;Green Bay Packers
+1993;NFL;NFC;Central;2;9;7;0;Green Bay Packers
+1994;NFL;NFC;Central;2;9;7;0;Green Bay Packers
+1995;NFL;NFC;Central;1;11;5;0;Green Bay Packers
+1996;NFL;NFC;Central;1;13;3;0;Green Bay Packers
+1997;NFL;NFC;Central;1;13;3;0;Green Bay Packers
+1998;NFL;NFC;Central;2;11;5;0;Green Bay Packers
+1999;NFL;NFC;Central;4;8;8;0;Green Bay Packers
+2000;NFL;NFC;Central;3;9;7;0;Green Bay Packers
+2001;NFL;NFC;Central;2;12;4;0;Green Bay Packers
+2002;NFL;NFC;North;1;12;4;0;Green Bay Packers
+2003;NFL;NFC;North;1;10;6;0;Green Bay Packers
+2004;NFL;NFC;North;1;10;6;0;Green Bay Packers
+2005;NFL;NFC;North;4;4;12;0;Green Bay Packers
+2006;NFL;NFC;North;2;8;8;0;Green Bay Packers
+2007;NFL;NFC;North;1;13;3;0;Green Bay Packers
+2008;NFL;NFC;North;3;6;10;0;Green Bay Packers
+2009;NFL;NFC;North;2;11;5;0;Green Bay Packers
+2010;NFL;NFC;North;2;10;6;0;Green Bay Packers
+2011;NFL;NFC;North;1;15;1;0;Green Bay Packers
+2012;NFL;NFC;North;1;11;5;0;Green Bay Packers
+2013;NFL;NFC;North;1;8;7;1;Green Bay Packers
+2014;NFL;NFC;North;1;12;4;0;Green Bay Packers
+2015;NFL;NFC;North;2;10;6;0;Green Bay Packers
+2016;NFL;NFC;North;1;10;6;0;Green Bay Packers
+1970;NFL;NFC;Central;1;12;2;0;Minnesota Vikings
+1971;NFL;NFC;Central;1;11;3;0;Minnesota Vikings
+1972;NFL;NFC;Central;3;7;7;0;Minnesota Vikings
+1973;NFL;NFC;Central;1;12;2;0;Minnesota Vikings
+1974;NFL;NFC;Central;1;10;4;0;Minnesota Vikings
+1975;NFL;NFC;Central;1;12;2;0;Minnesota Vikings
+1976;NFL;NFC;Central;1;11;2;1;Minnesota Vikings
+1977;NFL;NFC;Central;1;9;5;0;Minnesota Vikings
+1978;NFL;NFC;Central;1;8;7;1;Minnesota Vikings
+1979;NFL;NFC;Central;3;7;9;0;Minnesota Vikings
+1980;NFL;NFC;Central;1;9;7;0;Minnesota Vikings
+1981;NFL;NFC;Central;4;7;9;0;Minnesota Vikings
+1982;NFL;NFC;;4;5;4;0;Minnesota Vikings
+1983;NFL;NFC;Central;4;8;8;0;Minnesota Vikings
+1984;NFL;NFC;Central;5;3;13;0;Minnesota Vikings
+1985;NFL;NFC;Central;3;7;9;0;Minnesota Vikings
+1986;NFL;NFC;Central;2;9;7;0;Minnesota Vikings
+1987;NFL;NFC;Central;2;8;7;0;Minnesota Vikings
+1988;NFL;NFC;Central;2;11;5;0;Minnesota Vikings
+1989;NFL;NFC;Central;1;10;6;0;Minnesota Vikings
+1990;NFL;NFC;Central;5;6;10;0;Minnesota Vikings
+1991;NFL;NFC;Central;3;8;8;0;Minnesota Vikings
+1992;NFL;NFC;Central;1;11;5;0;Minnesota Vikings
+1993;NFL;NFC;Central;2;9;7;0;Minnesota Vikings
+1994;NFL;NFC;Central;1;10;6;0;Minnesota Vikings
+1995;NFL;NFC;Central;4;8;8;0;Minnesota Vikings
+1996;NFL;NFC;Central;2;9;7;0;Minnesota Vikings
+1997;NFL;NFC;Central;4;9;7;0;Minnesota Vikings
+1998;NFL;NFC;Central;1;15;1;0;Minnesota Vikings
+1999;NFL;NFC;Central;2;10;6;0;Minnesota Vikings
+2000;NFL;NFC;Central;1;11;5;0;Minnesota Vikings
+2001;NFL;NFC;Central;4;5;11;0;Minnesota Vikings
+2002;NFL;NFC;North;2;6;10;0;Minnesota Vikings
+2003;NFL;NFC;North;2;9;7;0;Minnesota Vikings
+2004;NFL;NFC;North;2;8;8;0;Minnesota Vikings
+2005;NFL;NFC;North;2;9;7;0;Minnesota Vikings
+2006;NFL;NFC;North;3;6;10;0;Minnesota Vikings
+2007;NFL;NFC;North;2;8;8;0;Minnesota Vikings
+2008;NFL;NFC;North;1;10;6;0;Minnesota Vikings
+2009;NFL;NFC;North;1;12;4;0;Minnesota Vikings
+2010;NFL;NFC;North;4;6;10;0;Minnesota Vikings
+2011;NFL;NFC;North;4;3;13;0;Minnesota Vikings
+2012;NFL;NFC;North;2;10;6;0;Minnesota Vikings
+2013;NFL;NFC;North;4;5;10;1;Minnesota Vikings
+2014;NFL;NFC;North;3;7;9;0;Minnesota Vikings
+2015;NFL;NFC;North;1;11;5;0;Minnesota Vikings
+2016;NFL;NFC;North;3;8;8;0;Minnesota Vikings
